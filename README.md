@@ -94,8 +94,10 @@ Despite common assumptions about toss advantage in T20 cricket, the analysis rev
 * `IPL_ANALYSIS.py` → Complete Python analysis
 * `charts/` → Visualization images
 
----
-
 ## Conclusion
 
-Tthis project demonstrates how data analytics can uncover meaningful insights and strategic patterns in IPL cricket using structured ball-by-ball match data.
+This project demonstrates how data analytics can uncover meaningful insights and strategic patterns in IPL cricket using structured ball-by-ball match data.
+
+---
+
+This project demonstrates how data analytics can uncover meaningful insights and strategic patterns in IPL cricket using structured ball-by-ball match data.
